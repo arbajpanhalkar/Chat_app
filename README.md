@@ -32,9 +32,9 @@ This is a simple Android Kotlin project.
 
 | Screenshot 1 | Screenshot 2 | Screenshot 3 |
 |--------------|--------------|--------------|
-| ![Screenshot 1](screenshots/screenshot1.png) | ![Screenshot 2](screenshots/screenshot2.png) | ![Screenshot 3](screenshots/screenshot3.png) |
+| ![Screenshot 1](https://drive.google.com/file/d/1HodDFWI9KDO-C8psc3ZJZmlpdkgJjbuv/view?usp=drivesdk) | ![Screenshot 2](https://drive.google.com/file/d/1IQoGB54miRqc-lixeJT9dfiGNylm8Sru/view?usp=drivesdk) | ![Screenshot 3](https://drive.google.com/file/d/1SYbIpcDnHIRjRUdvVFoZBJG3XWADWt3O/view?usp=drivesdk) |
 
-*(Make sure you save your screenshots as `screenshot1.png`, `screenshot2.png`, and `screenshot3.png` inside the `screenshots/` folder in your project.)*
+
 
 ---
 
