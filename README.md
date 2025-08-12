@@ -18,3 +18,7 @@ MyKotlinApp/
 ├── gradlew.bat
 └── .gitignore
 
+
+#DEMO VIDEO
+
+SVID_20250614_115258_1.mp4.crdownload
