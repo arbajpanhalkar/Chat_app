@@ -30,15 +30,17 @@ This is a simple Android Kotlin project.
 
 ## Screenshots
 
-(Save your screenshots inside the `screenshots/` folder.)
+| Screenshot 1 | Screenshot 2 | Screenshot 3 |
+|--------------|--------------|--------------|
+| ![Screenshot 1](screenshots/screenshot1.png) | ![Screenshot 2](screenshots/screenshot2.png) | ![Screenshot 3](screenshots/screenshot3.png) |
+
+*(Make sure you save your screenshots as `screenshot1.png`, `screenshot2.png`, and `screenshot3.png` inside the `screenshots/` folder in your project.)*
 
 ---
 
-## Demo Video
+## Demo Videos
 
-Watch the demo video of the running app here:
-
-[Demo Video Link](https://drive.google.com/file/d/1G30cpct49BP5HCPTXbFumntpCVGDmJWr/view)
+- [Demo Video 1](https://drive.google.com/file/d/1G30cpct49BP5HCPTXbFumntpCVGDmJWr/view)  
 
 ---
 
